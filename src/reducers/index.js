@@ -6,3 +6,5 @@ const allReducer = combinedReducers({
     counter : counterReducer,
     isLogged : isLoggedReducer
 })
+
+export default allReducer
